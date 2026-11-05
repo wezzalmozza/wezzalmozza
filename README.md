@@ -2,8 +2,8 @@
 
 <!-- Responsive Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_BANNER_URL">
-  <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_BANNER_URL">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wezzalmozza/profile/main/assets/social-preview-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wezzalmozza/profile/main/assets/social-preview-dark.png">
   <img src="YOUR_DARK_BANNER_URL" width="100%" alt="Mariem Trigui — Cloud & Cybersecurity">
 </picture>
 
