@@ -94,20 +94,29 @@ I'm passionate about designing secure infrastructures, exploring offensive and d
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/wezzalmozza/multi-cloud-security-platform">
+    <img src="https://img.shields.io/badge/☁️_MULTI--CLOUD_SECURITY-Cloud_Auditing- EF93C4?style=for-the-badge&labelColor=161B22" />
+  </a>
+  <a href="YOUR_PENTPATH_REPO_URL">
+    <img src="https://img.shields.io/badge/🐳_PENTPATH-Pentesting_Platform-EF93C4?style=for-the-badge&labelColor=161B22" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="YOUR_SOC_REPO_URL">
+    <img src="https://img.shields.io/badge/🛡️_VIRTUALIZED_SOC-Security_Monitoring-EF93C4?style=for-the-badge&labelColor=161B22" />
+  </a>
+  <a href="YOUR_HIDS_NIDS_REPO_URL">
+    <img src="https://img.shields.io/badge/🔍_HIDS_NIDS-Intrusion_Detection-EF93C4?style=for-the-badge&labelColor=161B22" />
+  </a>
+</p>
 
-</div>
-
-| Project | Description | Technologies |
-|:---|:---|:---|
-| **Multi-Cloud Security Auditing Platform** | Automated security posture assessment across AWS, Azure and GCP. | AWS, Azure, GCP, Python |
-| **PentPath** | E-learning platform for hands-on penetration testing training. | FastAPI, Docker Swarm, PostgreSQL |
-| **Virtualized SOC** | Enterprise security infrastructure with centralized monitoring and threat detection. | VMware, Wazuh, Suricata, OPNsense |
-| **HIDS/NIDS Platform** | Containerized network monitoring and intrusion detection infrastructure. | Docker, FRRouting, Wazuh, Suricata, Zabbix, Grafana |
-| **RL-Based IDS** | Adaptive intrusion detection and response using reinforcement learning. | Python, SARSA, Q-Learning |
-
----
+<p align="center">
+  <a href="YOUR_RL_IDS_REPO_URL">
+    <img src="https://img.shields.io/badge/🧠_RL--BASED_IDS-Reinforcement_Learning-EF93C4?style=for-the-badge&labelColor=161B22" />
+  </a>
+</p>
 
 ## 📊 GitHub Statistics
 
