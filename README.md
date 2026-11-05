@@ -180,17 +180,21 @@ I'm passionate about designing secure infrastructures, exploring offensive and d
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=wezzalmozza&show_icons=true&theme=omni&border_color=EF93C4&title_color=EF93C4&icon_color=FF69B4&hide_border=false&count_private=true" />
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wezzalmozza&show_icons=true&theme=omni&title_color=EF93C4&icon_color=FF69B4&border_color=EF93C4&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezzalmozza&layout=compact&theme=omni&border_color=EF93C4&title_color=EF93C4&hide_border=false" />
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezzalmozza&layout=compact&theme=omni&title_color=EF93C4&border_color=EF93C4" />
 
-<br><br>
+  <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=wezzalmozza&theme=omni&border=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4" />
+  <!-- GitHub Streak -->
+  <img width="70%" src="https://streak-stats.demolab.com?user=wezzalmozza&theme=omni&border=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4" />
 
-<br><br>
+  <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=wezzalmozza&bg_color=1a1b27&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=EF93C4&hide_border=true&custom_title=Contribution%20Activity" />
+  <!-- Contribution Activity -->
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=wezzalmozza&bg_color=1a1b27&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
