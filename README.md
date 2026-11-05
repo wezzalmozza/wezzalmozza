@@ -94,29 +94,87 @@ I'm passionate about designing secure infrastructures, exploring offensive and d
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/wezzalmozza/multi-cloud-security-platform">
-    <img src="https://img.shields.io/badge/☁️_MULTI--CLOUD_SECURITY-Cloud_Auditing- EF93C4?style=for-the-badge&labelColor=161B22" />
-  </a>
-  <a href="YOUR_PENTPATH_REPO_URL">
-    <img src="https://img.shields.io/badge/🐳_PENTPATH-Pentesting_Platform-EF93C4?style=for-the-badge&labelColor=161B22" />
-  </a>
+<div align="center">
+
+<a href="https://github.com/wezzalmozza/multi-cloud-security-platform">
+  <img src="https://img.shields.io/badge/☁️_01._MULTI--CLOUD_SECURITY-Cloud_Security_Platform-EF93C4?style=for-the-badge&labelColor=161B22" />
+</a>
+
+<p>
+  Automated security auditing and posture assessment across AWS, Azure and GCP,
+  identifying misconfigurations and providing actionable remediation.
 </p>
 
-<p align="center">
-  <a href="YOUR_SOC_REPO_URL">
-    <img src="https://img.shields.io/badge/🛡️_VIRTUALIZED_SOC-Security_Monitoring-EF93C4?style=for-the-badge&labelColor=161B22" />
-  </a>
-  <a href="YOUR_HIDS_NIDS_REPO_URL">
-    <img src="https://img.shields.io/badge/🔍_HIDS_NIDS-Intrusion_Detection-EF93C4?style=for-the-badge&labelColor=161B22" />
-  </a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+<br/><br/>
+
+<a href="YOUR_PENTPATH_REPO_URL">
+  <img src="https://img.shields.io/badge/🐳_02._PENTPATH-Penetration_Testing_Platform-EF93C4?style=for-the-badge&labelColor=161B22" />
+</a>
+
+<p>
+  Developed a hands-on cybersecurity learning platform featuring vulnerable labs,
+  guided learning paths, flag validation and Docker Swarm orchestration.
 </p>
 
-<p align="center">
-  <a href="YOUR_RL_IDS_REPO_URL">
-    <img src="https://img.shields.io/badge/🧠_RL--BASED_IDS-Reinforcement_Learning-EF93C4?style=for-the-badge&labelColor=161B22" />
-  </a>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+<br/><br/>
+
+<a href="YOUR_SOC_REPO_URL">
+  <img src="https://img.shields.io/badge/🛡️_03._VIRTUALIZED_SOC-Security_Operations_Center-EF93C4?style=for-the-badge&labelColor=161B22" />
+</a>
+
+<p>
+  Designed a virtualized security infrastructure integrating centralized monitoring,
+  intrusion detection, network security and Active Directory.
 </p>
+
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Wazuh-3B82F6?style=flat-square" />
+<img src="https://img.shields.io/badge/Suricata-EF4444?style=flat-square" />
+<img src="https://img.shields.io/badge/OPNsense-D94F00?style=flat-square" />
+
+<br/><br/>
+
+<a href="YOUR_HIDS_NIDS_REPO_URL">
+  <img src="https://img.shields.io/badge/🔍_04._HIDS%2FNIDS-Intrusion_Detection_Platform-EF93C4?style=for-the-badge&labelColor=161B22" />
+</a>
+
+<p>
+  Built a containerized network monitoring infrastructure with host and network-based
+  intrusion detection, traffic analysis and QoS monitoring.
+</p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/FRRouting-444444?style=flat-square" />
+<img src="https://img.shields.io/badge/Wazuh-3B82F6?style=flat-square" />
+<img src="https://img.shields.io/badge/Suricata-EF4444?style=flat-square" />
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+
+<br/><br/>
+
+<a href="YOUR_RL_IDS_REPO_URL">
+  <img src="https://img.shields.io/badge/🧠_05._RL--BASED_IDS-Reinforcement_Learning-EF93C4?style=for-the-badge&labelColor=161B22" />
+</a>
+
+<p>
+  Implemented reinforcement learning algorithms for adaptive intrusion detection
+  and automated traffic-response decisions.
+</p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Q--Learning-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/SARSA-C71585?style=flat-square" />
+
+</div>
 
 ## 📊 GitHub Statistics
 
