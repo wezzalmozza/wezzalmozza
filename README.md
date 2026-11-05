@@ -140,7 +140,7 @@ Create .github/workflows/snake.yml in your profile repository.
 The workflow generates the contribution snake SVG and commits it to the output branch.
 -->
 
-<img src="https://raw.githubusercontent.com/wezzalmozza/wezzalmozza/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/wezzalmozza/profile/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
