@@ -96,9 +96,6 @@ I'm passionate about designing secure infrastructures, exploring offensive and d
 
 <div align="center">
 
-<a href="https://github.com/wezzalmozza/multi-cloud-security-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wezzalmozza&repo=multi-cloud-security-platform&theme=omni&border_color=EF93C4" />
-</a>
 
 </div>
 
