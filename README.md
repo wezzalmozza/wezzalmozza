@@ -1,13 +1,15 @@
 <div align="center">
-
-<!-- Responsive Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wezzalmozza/profile/main/assets/social-preview-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wezzalmozza/profile/main/assets/social-preview-dark.png">
-  <img src="YOUR_DARK_BANNER_URL" width="100%" alt="Mariem Trigui — Cloud & Cybersecurity">
-</picture>
+<!-- Responsive Light/Dark Banner -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="100%" alt="Mariem Trigui - Cloud & Cybersecurity">
+  </picture>
+</p>
 
 <br>
+
+<div align="center">
 
 # Hey there, I'm Mariem Trigui 👋
 
